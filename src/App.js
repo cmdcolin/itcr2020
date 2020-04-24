@@ -13,23 +13,28 @@ function App() {
 
       <div id="parentDiv">
         <div>
+          <a name="1" />
           <h1>Linear synteny demo</h1>
           <img className="screenshot" src="1.png" />
         </div>
         <div>
+          <a name="2" />
           <h1>Dotplot synteny demo</h1>
           <img className="screenshot" src="2.png" />
         </div>
         <div>
+          <a name="3" />
           <h1>SV inspector with spreadsheet and circos overview</h1>
 
           <img className="screenshot" src="3.png" />
         </div>
         <div>
+          <a name="4" />
           <h1>Breakpoint split view showing chromosomal translocation</h1>
           <img className="screenshot" src="4.png" />
         </div>
         <div>
+          <a name="5" />
           <h1>Dotplot of long read vs reference</h1>
           <img className="screenshot" src="5.png" />
         </div>

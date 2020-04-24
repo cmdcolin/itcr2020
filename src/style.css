@@ -1,0 +1,88 @@
+hr{
+    margin-top: 0
+}
+button{
+    border: none;
+    min-width: 64px;
+    font-weight: 500;
+    line-height: 1.75;
+    border-radius: 4px;
+    letter-spacing: 0.02857em;
+    box-shadow: 0px 3px 1px -2px rgba(0,0,0,0.2), 0px 2px 2px 0px rgba(0,0,0,0.14), 0px 1px 5px 0px rgba(0,0,0,0.12);
+    text-transform: uppercase;
+    cursor: pointer;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+}
+button:hover, button:disabled, textarea:disabled {
+    opacity: 0.6;
+}
+button:active {
+    opacity: 0.6;
+    transform: scale(0.98);
+    box-shadow: -1px 2px 0px -3px rgba(0,0,0,0.2), -1px 1px 1px -1px rgba(0,0,0,0.14), -1px 0px 4px -1px rgba(0,0,0,0.12);
+}
+
+.topSpan, .jbrowseHeader, button, hr{
+    background-color: #0D233F;
+    color: white;
+}
+.topSpan{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.jbrowseHeader{
+    font: 400 system-ui;
+    margin-right: 10px;
+}
+.icon{
+    height: 48px;
+    width: 48px;
+}
+.g-recaptcha {
+    display: inline-block;
+}
+
+#fastaFileInput{
+    display: inline-block;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+#fastaTextInput{
+    height: 200px;
+    font-family: monospace
+}
+#parentDiv, #innerDiv{
+    position: relative;
+    text-align: center;
+}
+#inputDiv{
+   width: 50%;
+   margin: 0 auto;
+}
+#generatedTitle{
+    margin-top: 1rem;
+}
+#resultsDiv{
+  width: 60%;
+  margin: 1em auto;
+}
+
+.readme{
+    width: 40%;
+    font-size: small;
+    margin: 1em auto;
+    text-align: center;
+}
+
+
+.error {
+  color: red
+}
+.warning {
+  color: orange
+}
+.good {
+  display:none
+}

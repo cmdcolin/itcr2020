@@ -80,7 +80,7 @@ function App() {
           </p>
           <a
             className="demo"
-            href="http://s3.amazonaws.com/jbrowse.org/code/jb2/alpha/longread_demo/index.html?config=test_data/config_breakpoint_integration_test.json"
+            href="https://s3.amazonaws.com/jbrowse.org/code/jb2/alpha/longread_demo/index.html??session=eJztWFtv4kYU_ivIT60ExjdC8FvYbCFaQlggZJtqhQb7YCaxx96Z4bYR_71njDFOgCrpqmq1zQMSPnPmO9-5zHyWnzRGItBcrQvL0gCEoDErWYZlVAynYp0PLdu1TNeo67Zh3GtlLSI8oExzjbLmc7IEfkd9OdNc-9wpawsKS6G5fzxp1EfI9u3lfH39aWngPp-KJCTr7jaYadl146yEJipLPkhCQ_SR60QtNjmQxySmTA7U-ghBcXEGxAfeBhrMpOY6jrJk_w0kIznxHgcQgidjPtwCzShwwr0Z9YiCF7N4ecXQUdHsUPaIVCWfQ1kL8WG05T4loUALBse9nhzGQRCCn9tfZDgashEfyvHyfk8fkYHwFrA4gox7PJ0KkL2V5p4bTt0xLd2qWbZjGbV6WZskPeBqzTTyMoHfhwA7sQ3FYbqrmyqlkITLtAPA_C3kudlAJA4L4KLAlggB0STcVX0WmA1tUz4FuAdKcU27VrOR7auBv2ZdKNRneuEEd7dkJvbluQhpwCJgUgyVs7bvo1XDlLyYTWkw50Ri-ujOgijk43RQsCMKp0dDmCfbzW4Wp9E3OnLljHv7OEW3fQzTOIzxdHxLmsuVf8hhnKR-6JIdncGnZt8uJcSb0Lj0S7d13en_WsrdSzEL16V8T7F0qlLb4mHtPCIhiPla2VJEZSQ-SRCkQLJJoovMiLNDok7s5XnMOVXdkDIRbrUqbJ1E5HvMyFLoXhxVHyY8XgrQYx5Ug3Q-RVVFr4rHCbereOx8MVaZqkd9SsZp4hVDt3R7HJEkAV_P09IxNg4TnhQfVip4-C8SwR_VNpuNGlXkw9WkII1tQ_uZ6aDT-QLuGyyC34DIOYcj7kcWN2m0Qbf3IcazQQJ4PpCrL7fd3zudm490P5EHzsUr7PRUHtl2ejQFS7zM-W3z-Xzjjw5pgfN-WMV88j7Obxrnl_NcKOuxKT2ymmKIVBaVpigrZQE6q1yVIO527KRQ2banY2eZUR_aqfhm179SkHTIH3oLI7j93PpWuN5HhFPC5GvuXW2ClRFy7BHmAVaH0ek0BDHO1aQY-SWXG6StxDiXpFe8AESU0WgeNbG1j9lri2VkZQAl-Eq6XyZ56VUi2YgfGv4rJf7MrNmWZevWG6X97FDaFdQZgv09aS8A7oFS3IZh15x6zf4BZQ9b3kcpZOXzP6zsy_XdwvzQ7X359i7t_-u78D8j7dG9H9y0eMf8_i7t79L-k0p757pF24tW0_sJlf2rYpB_vAhApg0oIg6LEfODf9ojr1H7lMtlIZym6hWGJEl19wm7NaUhchzCSqr2bb8yPH_1UL0mnqQLuHwD8b9Y26RNY_iAHbti-J6ArVJ4m82f_UM3_Q"
           >
             Demo
           </a>
@@ -97,7 +97,7 @@ function App() {
           </p>
           <a
             className="demo"
-            href="http://s3.amazonaws.com/jbrowse.org/code/jb2/alpha/longread_demo/index.html?config=test_data/config_longread.json"
+            href="https://s3.amazonaws.com/jbrowse.org/code/jb2/alpha/longread_demo/index.html?config=test_data/config_longread.json"
           >
             Demo
           </a>

@@ -80,7 +80,7 @@ function App() {
           </p>
           <a
             className="demo"
-            href="http://s3.amazonaws.com/jbrowse.org/code/jb2/alpha/master/index.html?config=test_data/config_breakpoint_integration_test.json"
+            href="http://s3.amazonaws.com/jbrowse.org/code/jb2/alpha/longread_demo/index.html?config=test_data/config_breakpoint_integration_test.json"
           >
             Demo
           </a>

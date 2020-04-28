@@ -34,3 +34,12 @@ hr{
   display: block;
   width: 80%;
 }
+.demo {
+  font-size: 200%;
+}
+
+.post {
+  margin: 100px;
+  border: 1px solid black;
+  padding: 40px;
+}

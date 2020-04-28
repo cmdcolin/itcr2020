@@ -30,7 +30,7 @@ function App() {
           </p>
           <a
             className="demo"
-            href="https://s3.amazonaws.com/jbrowse.org/code/jb2/alpha/synteny_demo_bog2020/index.html?config=test_data/config_synteny_grape_peach.json"
+            href="https://s3.amazonaws.com/jbrowse.org/code/jb2/alpha/synteny_demo_bog20/index.html?config=test_data%2Fconfig_synteny_grape_peach.json&session=eJzNVdtO20AQ_RW0z5YdJ5ZJ_EaKClS0RSSilRCKlvXEXrB33Z1NTIjy7x1fcmkIVYT60EfPzJ45e87seMkUz4FF7MLwAk7meHIDXKQn55Br5rBSxjZlkd8P-g6LDS_B_GhCvX7gsLmEEll0v2QyJgwLaH06ZRdFBXktFXAzWigLanFHpZRKgcdgLkEmqWVREO61SNeJTof6SSwyvvh2iCBBCa2mMpkZbqVWLFr-rW1NT3wpx3J2-5RQgCuRaoMt6UnMLfeSqoNbVPDuOu8wlHmRwdlx9W5TTccKPqXi1NoCI8_Dnstz_qoVL9EVOveeHo0uEVxtEi8BpXNADxvKXo04adEJxmG5jGNCjayZwYr0NVw8jyADYbUZN7dOJRhuRCoFzyrWqS6vFBVWFpEiz9icdlhGH3eNb1OeIUUktSVEO9ZJkkG8iddtGnsPSTuu0m99YDXxSXOJ9kqTXKDgatKoxLY--53OyvlX8Hu4D4fnc_JmQi9q_dtJ0dMpgr15YVG33wsHbi8I_P7gNOx1Th32WNyAqXKEvx3QW0iIGn42Oj9DhPwxW89s0Y6qgTkYPCxtzWz-ImZX16fp4OeW3JCjFGsVdi72VpJ2YEABsuralLdGZ9g-Vb_b2X9mMoZPbdGGUxW8rJ_nelTqskwjDGfWVp2a8BHjl0sl81k-zLR4bll0a6d3fOge64Pvhr4fdINeN-wPwjD8gBH10BxjhP7VU4uRSMX3jxjRzOb_b8RDRW6zzhOwWO3P3aPjXegqWavzfsVGrMv3Ss532tXPOst4UVuxpJU2lRktoTG8kLSMNS9380ehPAIiafyVK57AltBeeMNi9Gd8RQi04OQczvcuTYkc1GzIq91-31imiC8dvlJoaWFBXbb6DQC3esw"
           >
             Demo
           </a>

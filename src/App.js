@@ -19,8 +19,9 @@ function App() {
 
       <div id="parentDiv">
         <div className="post">
-          <a name="1" />
-          <h1>Demo 1 - Linear synteny demo</h1>
+          <a href="#1" name="1">
+            <h1>1 - Linear synteny demo</h1>
+          </a>
           <ModalImage small="resized.1.png" large="1.png" alt="Hello World!" />
           <p>
             This demo illustrates peach vs grape synteny drawn with stacked
@@ -35,8 +36,9 @@ function App() {
           </a>
         </div>
         <div className="post">
-          <a name="2" />
-          <h1>Demo 2 - Dotplot synteny demo</h1>
+          <a href="#2" name="2">
+            <h1>2 - Dotplot synteny demo</h1>
+          </a>
           <ModalImage small="resized.2.png" large="2.png" />
           <p>
             Dotplot view of grape vs peach synteny. A click and drag action
@@ -50,8 +52,9 @@ function App() {
           </a>
         </div>
         <div className="post">
-          <a name="3" />
-          <h1>Demo 3 - SV inspector with spreadsheet and circos overview</h1>
+          <a href="#3" name="3">
+            <h1>3 - SV inspector with spreadsheet and circos overview</h1>
+          </a>
           <ModalImage small="resized.3.png" large="3.png" />
           <p>
             Our "SV inspector" view which is a spreadsheet of VCF contents with
@@ -66,10 +69,9 @@ function App() {
           </a>
         </div>
         <div className="post">
-          <a name="4" />
-          <h1>
-            Demo 4 - Breakpoint split view showing chromosomal translocation
-          </h1>
+          <a href="#4" name="4">
+            <h1>4 - Breakpoint split view showing chromosomal translocation</h1>
+          </a>
           <ModalImage small="resized.4.png" large="4.png" />
           <p>
             A "breakpoint split view" of a single translocation event, with VCF
@@ -84,8 +86,9 @@ function App() {
           </a>
         </div>
         <div className="post">
-          <a name="5" />
-          <h1>Demo 5 - Dotplot of long read vs reference</h1>
+          <a href="#5" name="5">
+            <h1>5 - Dotplot of long read vs reference</h1>
+          </a>
           <ModalImage small="resized.5.png" large="5.png" />
           <p>
             A dotplot showing a long read vs the reference. This shows a single

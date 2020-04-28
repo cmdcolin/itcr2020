@@ -109,8 +109,8 @@ function Readme() {
         <i>
           These demos present a preview of JBrowse 2, as a companion to our
           Biology of Genomes 2020 poster. We highlight circular, dotplot, and
-          linear comparative views for purposes of structural variant and
-          synteny applications.
+          linear comparative views that are new to JBrowse 2. These new views
+          aim to help structural variant inspection and synteny visualization.
         </i>
       </p>
       <div>

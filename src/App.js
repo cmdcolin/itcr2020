@@ -5,13 +5,17 @@ import ModalImage from 'react-modal-image'
 
 function App() {
   return (
-    <>
+    <div>
       <span className="topSpan">
         <h2 className="jbrowseHeader">JBrowse BOG2020 demos</h2>
         <img alt="logo" src={icon} className="icon" align="right" />
       </span>
       <hr />
-    <p>These demos present some preview functionality for JBrowse 2. We highlight circular, dotplot, and linear comparative views for purposes of structural variant and synteny applications.
+      <p>
+        These demos present some preview functionality for JBrowse 2. We
+        highlight circular, dotplot, and linear comparative views for purposes
+        of structural variant and synteny applications.
+      </p>
 
       <div id="parentDiv">
         <div className="post">
@@ -97,7 +101,7 @@ function App() {
         </div>
       </div>
       <Readme />
-    </>
+    </div>
   )
 }
 function Readme() {
@@ -108,6 +112,9 @@ function Readme() {
           This site provides a preview of JBrowse 2 with contents from our
           Biology of Genomes 2020 poster.
         </i>
+        <p>Contact: ihh@gmail.com</p>
+        <a href="https://github.com/GMOD/jbrowse-components">Github</a>
+        <a href="https://gitter.im/GMOD/jbrowse">Gitter chat</a>
       </p>
     </div>
   )

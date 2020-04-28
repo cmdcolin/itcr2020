@@ -31,6 +31,9 @@ function App() {
             Dotplot view of grape vs peach synteny. A click and drag action
             allows zooming in or spawning a dotplot view
           </p>
+          <a href="https://s3.amazonaws.com/jbrowse.org/code/jb2/alpha/master/index.html?config=test_data%2Fconfig_dotplot.json">
+            Demo
+          </a>
         </div>
         <div>
           <a name="3" />
@@ -41,6 +44,8 @@ function App() {
             a circos view of chromosomal translocation events. The table can be
             filtered, and the circos view is updated dynamically in response
           </p>
+            Demo (unavailable, too long session URL)
+          </a>
         </div>
         <div>
           <a name="4" />

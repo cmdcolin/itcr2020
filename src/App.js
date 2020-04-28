@@ -11,11 +11,7 @@ function App() {
         <img alt="logo" src={icon} className="icon" align="right" />
       </span>
       <hr />
-      <p>
-        These demos present some preview functionality for JBrowse 2. We
-        highlight circular, dotplot, and linear comparative views for purposes
-        of structural variant and synteny applications.
-      </p>
+      <Readme />
 
       <div id="parentDiv">
         <div className="post">
@@ -103,7 +99,6 @@ function App() {
           </a>
         </div>
       </div>
-      <Readme />
     </div>
   )
 }
@@ -112,13 +107,17 @@ function Readme() {
     <div className="readme">
       <p>
         <i>
-          This site provides a preview of JBrowse 2 with contents from our
-          Biology of Genomes 2020 poster.
+          These demos present a preview of JBrowse 2, as a companion to our
+          Biology of Genomes 2020 poster. We highlight circular, dotplot, and
+          linear comparative views for purposes of structural variant and
+          synteny applications.
         </i>
-        <p>Contact: ihh@gmail.com</p>
-        <a href="https://github.com/GMOD/jbrowse-components">Github</a>
-        <a href="https://gitter.im/GMOD/jbrowse">Gitter chat</a>
       </p>
+      <div>
+        <a href="https://github.com/GMOD/jbrowse-components">Github</a>
+        <br />
+        <a href="https://gitter.im/GMOD/jbrowse">Gitter chat</a>
+      </div>
     </div>
   )
 }

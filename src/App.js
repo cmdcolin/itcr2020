@@ -71,9 +71,9 @@ function App() {
         </div>
 
         <div className="post">
-          <a href="#5" name="5">
+          <a href="#4" name="4">
             <h1>
-              5 - Dotplot and &quot;synteny&quot; view of PacBio long read vs
+              4 - Dotplot and &quot;synteny&quot; view of PacBio long read vs
               hg19
             </h1>
           </a>
@@ -100,8 +100,8 @@ function App() {
         </div>
 
         <div className="post">
-          <a href="#6" name="6">
-            <h1>6 - Cancer GDC portal GraphQL API adapter</h1>
+          <a href="#5" name="5">
+            <h1>5 - Cancer GDC portal GraphQL API adapter</h1>
           </a>
           <ModalImage small="resized.6.png" large="6.png" />
           <p>

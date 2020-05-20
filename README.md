@@ -1,5 +1,6 @@
-# covbrowser
-Backend services for covbrowser.org
+# itcr2020
+
+Demo site for itcr2020
 
 # Test locally
 

@@ -7,7 +7,7 @@ function App() {
   return (
     <div>
       <span className="topSpan">
-        <h2 className="jbrowseHeader">JBrowse BOG2020 demos</h2>
+        <h2 className="jbrowseHeader">JBrowse ITCR2020 demos</h2>
         <img alt="logo" src={icon} className="icon" align="right" />
       </span>
       <hr />

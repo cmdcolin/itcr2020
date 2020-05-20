@@ -24,3 +24,4 @@ yarn-error.log*
 *.swp
 SARS-CoV-2-JBrowse.zip
 SARS-CoV-2-JBrowse.publish.log
+.eslintcache

@@ -10,6 +10,6 @@ The local test instance will use the remote lambda functions and is functional
 
 # Deploy
 
-    make publish
+    yarn deploy
 
-This will deploy the lambda script and the files to the covbrowser.org s3 bucket
+This will deploy the lambda script and the files to the http://jbrowse.org/demos/itcr2020 s3 bucket

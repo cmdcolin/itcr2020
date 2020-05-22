@@ -30,7 +30,7 @@ function App() {
           </p>
           <a
             className="demo"
-            href="http://localhost:3000/?config=test_data%2Fconfig_demo.json&session=eJztV9tu2zgQ_RVDT7uALevqi96cBHaCJqlhexN0F4VBSyOJrUSppGznAv17h5RrK4kVFN22W2D7YMEaDuecIc8MxUeNkRQ0T7uGbWsOQtCMtSzDMjqG27GshdnzXNtzhnrPcf_W2lpKeESZ5hltLeBkC_yWBkWsefbAaWsbCluhef88ajTAkOm70bvp1vAHOC-gIk_I_XUFFkfmEI3FfS7fLikDwifAshRuMASOZGEooJjeaV7fGprDgdNra6t8ClyaTN00-0PDHtqGaZuG4dj7-BDMIMIUKhYcwh2gaWBQURBeKOrAkJ9pu67t9J1-Gx03wAWgMSSJgLZGhIB0lTzhW75Hxpz4H2spOnfOeLaC2dUhmxvCKWHFQnqiNQYaxYiKPNuan7GQRmtOCuSIvjnxVzRbis1y44da2d5FJfMJyVxmmoeoo4RGLAVWiOeBLbc5cBwZhoW-U5rAOq9mejuQOB7xk1g4vRpK3e916o_Hp6j1uQieMVjmygnHd2I7n6C1NVUurVjY_cDFPf24au0d6xsg17vaAtwBnxQQZfxe2iYXoxNpIwHJC-A1VickHe2MKBySXmb-nviaU5l-UeTC63Y_rHi2FaBnPOpGSoKiK7G6VQLdtOcYprk0B6ZlDpaW7RqupQ-udJWCXuOuIwxuoUZZAHcSJ_k5mPijWlmWUsUIzVHIErHal9nO9GLD9gM4b76JxkCKNYcj7kcGS4U2v56eZlg2JIKnwpp-ejM5e8vC0DkI64XzQV3OK-I6Mq1BYYLl_s7zK2T21Ptfaq1G8qA5sV79VmX5Upa1xTomtiOjKoaABPxCdndppSxCZ5mWiLPtlxmaV_A1VLZK5F8sMQ3gHEggsVSD33da52Rz0__r1hp_c6dlhGV5xmG5TlCaScaipc9xzY83XZtvtrdvrox7-CFNt4FMQ_-93nm39t6tP05no6s_v1sbPuV1xUsqzZIXtk5S8pAxshW6n6XNelR0O5JvJ2PFslLeMo8JnuC6WvxSgdGfAiYfVGkRPq2B-fsmUKv76IHmY4LfH4fFCOXrNzQANU_91UOiRw8SOXwt1a-OhE-VB5L9HtEwzC91LH0g7the3Y6Mzo89lppq8JUTqrkQ_6OD6nfd_u_r9hc9uN8fMdZNbzGkvIbuh1RhzhWLjC8qtjFFXO7H1CeJVuGqOr4kK0hEnc4pfgcAlxfUGoH9xTeCQq1NPd6ijne4bDV67HvReZPLWQ1OVmOWJCRXl9VHqSGaIMMF3BVyZas7-JO7t9wF4hd0A2fPeJeqwzEEQclcMNQBVoEaKD8DpPt2Og"
+            href="http://s3.amazonaws.com/jbrowse.org/code/jb2/alpha/itcr_demo_main/index.html?config=test_data%2Fconfig_demo.json&session=eJztV9tu2zgQ_RVDT7uALevqi96cBHaCJqlhexN0F4VBSyOJrUSppGznAv17h5RrK4kVFN22W2D7YMEaDuecIc8MxUeNkRQ0T7uGbWsOQtCMtSzDMjqG27GshdnzXNtzhnrPcf_W2lpKeESZ5hltLeBkC_yWBkWsefbAaWsbCluhef88ajTAkOm70bvp1vAHOC-gIk_I_XUFFkfmEI3FfS7fLikDwifAshRuMASOZGEooJjeaV7fGprDgdNra6t8ClyaTN00-0PDHtqGaZuG4dj7-BDMIMIUKhYcwh2gaWBQURBeKOrAkJ9pu67t9J1-Gx03wAWgMSSJgLZGhIB0lTzhW75Hxpz4H2spOnfOeLaC2dUhmxvCKWHFQnqiNQYaxYiKPNuan7GQRmtOCuSIvjnxVzRbis1y44da2d5FJfMJyVxmmoeoo4RGLAVWiOeBLbc5cBwZhoW-U5rAOq9mejuQOB7xk1g4vRpK3e916o_Hp6j1uQieMVjmygnHd2I7n6C1NVUurVjY_cDFPf24au0d6xsg17vaAtwBnxQQZfxe2iYXoxNpIwHJC-A1VickHe2MKBySXmb-nviaU5l-UeTC63Y_rHi2FaBnPOpGSoKiK7G6VQLdtOcYprk0B6ZlDpaW7RqupQ-udJWCXuOuIwxuoUZZAHcSJ_k5mPijWlmWUsUIzVHIErHal9nO9GLD9gM4b76JxkCKNYcj7kcGS4U2v56eZlg2JIKnwpp-ejM5e8vC0DkI64XzQV3OK-I6Mq1BYYLl_s7zK2T21Ptfaq1G8qA5sV79VmX5Upa1xTomtiOjKoaABPxCdndppSxCZ5mWiLPtlxmaV_A1VLZK5F8sMQ3gHEggsVSD33da52Rz0__r1hp_c6dlhGV5xmG5TlCaScaipc9xzY83XZtvtrdvrox7-CFNt4FMQ_-93nm39t6tP05no6s_v1sbPuV1xUsqzZIXtk5S8pAxshW6n6XNelR0O5JvJ2PFslLeMo8JnuC6WvxSgdGfAiYfVGkRPq2B-fsmUKv76IHmY4LfH4fFCOXrNzQANU_91UOiRw8SOXwt1a-OhE-VB5L9HtEwzC91LH0g7the3Y6Mzo89lppq8JUTqrkQ_6OD6nfd_u_r9hc9uN8fMdZNbzGkvIbuh1RhzhWLjC8qtjFFXO7H1CeJVuGqOr4kK0hEnc4pfgcAlxfUGoH9xTeCQq1NPd6ijne4bDV67HvReZPLWQ1OVmOWJCRXl9VHqSGaIMMF3BVyZas7-JO7t9wF4hd0A2fPeJeqwzEEQclcMNQBVoEaKD8DpPt2Og"
           >
             Demo
           </a>
@@ -47,7 +47,7 @@ function App() {
           </p>
           <a
             className="demo"
-            href="https://s3.amazonaws.com/jbrowse.org/code/jb2/alpha/itcr_demo_gdc/index.html?session=eJztWFtv4kYU_ivIT60EZnzh-paEXZLmUhII2261QoN9bCbYY-_MAKER_71njDFOQqqkq9VWbR4ixWfOfOf2zXwjHgxOYzC6xhWsKkOQkiW8YhOb1Ihbs9sj2-naVpe0TIeQz0bViKkIGTe6pGr4gq5AfGK-mhldp-1WjSWDlTS6fzwYzEfI09veYn15viK4z2cyjej6ahvMsp0WaVbQxFTFB0VZhD5qnerFYwF0niaMq6FeHyMoLs6A-iBOgYUzZXRdV1vy_wkmowT15kOIwFOJGG2BZgwEFd6MeVTDy1myOuPoqNO8YHyOqSqxgKoR4cd4m3tAI4kWDI57PTVKwjACv7A_qXA84mMxUpPV5336iAxU9IEnMeS5J0EgQQ3ujW6buC2LuGa73W5adsdpV41pOgCh1yxStAn8GwhxEttQAoJd33QrpaJCZRMA7m8h21anVUW_JQhZypZKCfE02nV9FlodY1N9CXAPlOFaTqPhuC331cBf8imU-hMcueGnWzqT-_YcRSzkMXAlR9rZ2M_RbmBJXsIDFi4EVVg-uvMwjsQkIwpOROMMWASLdLu5m8f55cSxT-Q6PN_HKbvtY1jkeYyHw1uyWs785zlM0swPXfKjMzw_vnEqKfWmLKn8dNW_vLj5uVK4VxIerSvFnnLrdKe2zcPeeVRBmIi1tmWI2kh9miJIKcljGh_lRuQOjS8Sr6hjIZiehlKp7Nbr0jFpTP9MOF1J00vi-t1UJCsJZiLCepjxU9Z19LqcT4VTx2Pny4muVH-aAZ1khdeIaZvOJKZpCr5ZlGVibCQTnhQf7nXw6Acmgn_M2Gw2mqqYj9BMwTS2A73JTc8mXSzgvuEy_AhULQQccD-wuMmiDa8GJwmeDRrCY0IOmrO1d5M0f9sT8plv-QZ7mZQHtr3MTMlTL3d-Gz0fb_xWjpZy3nNVLqbvbH4Tm5_SudTWQyQ9sJphyEwVtaRoK-MhOutatR7uduyUUNu2h2NnmTEfTjPtzW9_LSAZx-8GSxLeXve_lm73MRWMcvWaa9eYYmekmniUe4Dd4SwIIpCTQkzKkZ_m8iumrbW4UKRX6H_MOIsX8TGOdp6_WmyStwG03mvlflpkz6vFqpPcdfxXKnzTajik0zGJZTcdt20336jwzecKryGbjm3_M4UvAe6BMtwOcRpuq-F8g8BfXPbZ6bJ_7H0HCuxGEPW9D0qq2vV3fkQc9ZQ7vJ33R-T9FfG_vnf_Na-I6cdgfHc9_P3D-yvi_RXxH3tF_GiB_6IzKH7CCEFlzSkjjsoRizP5skdxRk9fcumVwhn6sEYRTTPZfcBOBizCHEdwr3Rrt781PH6B6DlQT7El9N6Q-N-sbbIbg-MHkvSM4zMBhVjjbTZ_Aag6OGI"
+            href="https://s3.amazonaws.com/jbrowse.org/code/jb2/alpha/itcr_demo_gdc/index.html?config=test_data/config_demo.json&session=eJztWFtv4kYU_ivIT60EZnzh-paEXZLmUhII2261QoN9bCbYY-_MAKER_71njDFOQqqkq9VWbR4ixWfOfOf2zXwjHgxOYzC6xhWsKkOQkiW8YhOb1Ihbs9sj2-naVpe0TIeQz0bViKkIGTe6pGr4gq5AfGK-mhldp-1WjSWDlTS6fzwYzEfI09veYn15viK4z2cyjej6ahvMsp0WaVbQxFTFB0VZhD5qnerFYwF0niaMq6FeHyMoLs6A-iBOgYUzZXRdV1vy_wkmowT15kOIwFOJGG2BZgwEFd6MeVTDy1myOuPoqNO8YHyOqSqxgKoR4cd4m3tAI4kWDI57PTVKwjACv7A_qXA84mMxUpPV5336iAxU9IEnMeS5J0EgQQ3ujW6buC2LuGa73W5adsdpV41pOgCh1yxStAn8GwhxEttQAoJd33QrpaJCZRMA7m8h21anVUW_JQhZypZKCfE02nV9FlodY1N9CXAPlOFaTqPhuC331cBf8imU-hMcueGnWzqT-_YcRSzkMXAlR9rZ2M_RbmBJXsIDFi4EVVg-uvMwjsQkIwpOROMMWASLdLu5m8f55cSxT-Q6PN_HKbvtY1jkeYyHw1uyWs785zlM0swPXfKjMzw_vnEqKfWmLKn8dNW_vLj5uVK4VxIerSvFnnLrdKe2zcPeeVRBmIi1tmWI2kh9miJIKcljGh_lRuQOjS8Sr6hjIZiehlKp7Nbr0jFpTP9MOF1J00vi-t1UJCsJZiLCepjxU9Z19LqcT4VTx2Pny4muVH-aAZ1khdeIaZvOJKZpCr5ZlGVibCQTnhQf7nXw6Acmgn_M2Gw2mqqYj9BMwTS2A73JTc8mXSzgvuEy_AhULQQccD-wuMmiDa8GJwmeDRrCY0IOmrO1d5M0f9sT8plv-QZ7mZQHtr3MTMlTL3d-Gz0fb_xWjpZy3nNVLqbvbH4Tm5_SudTWQyQ9sJphyEwVtaRoK-MhOutatR7uduyUUNu2h2NnmTEfTjPtzW9_LSAZx-8GSxLeXve_lm73MRWMcvWaa9eYYmekmniUe4Dd4SwIIpCTQkzKkZ_m8iumrbW4UKRX6H_MOIsX8TGOdp6_WmyStwG03mvlflpkz6vFqpPcdfxXKnzTajik0zGJZTcdt20336jwzecKryGbjm3_M4UvAe6BMtwOcRpuq-F8g8BfXPbZ6bJ_7H0HCuxGEPW9D0qq2vV3fkQc9ZQ7vJ33R-T9FfG_vnf_Na-I6cdgfHc9_P3D-yvi_RXxH3tF_GiB_6IzKH7CCEFlzSkjjsoRizP5skdxRk9fcumVwhn6sEYRTTPZfcBOBizCHEdwr3Rrt781PH6B6DlQT7El9N6Q-N-sbbIbg-MHkvSM4zMBhVjjbTZ_Aag6OGI"
           >
             Demo
           </a>
@@ -93,6 +93,7 @@ function App() {
           >
             Demo (dotplot read vs ref)
           </a>
+          <br />
           <a
             className="demo"
             href="https://s3.amazonaws.com/jbrowse.org/code/jb2/alpha/itcr_demo_main/index.html?config=test_data/config_longread_linear.json"
@@ -107,14 +108,14 @@ function App() {
           </a>
           <ModalImage small="resized.6.png" large="6.png" />
           <p>
-            A GDC demo with track downloading from the GDC GraphQL API,
-            displaying variants that are colored by the VEP effect score.
+            A GDC GrapQL API demo with track downloading from the GDC GraphQL
+            API, displaying variants that are colored by the VEP effect score.
           </p>
           <a
             className="demo"
-            href="https://s3.amazonaws.com/jbrowse.org/code/jb2/alpha/itcr_demo_gdc/index.html?config=test_data/config_longread.json"
+            href="https://s3.amazonaws.com/jbrowse.org/code/jb2/alpha/itcr_demo_gdc/?config=test_data%2Fconfig_gdc_test.json&session=eJyNUmFr2zAQ_StBnzbwih3bseOPbdZ2o93KWpbBKEGRzpaYLBtJTmqC__tOdpbkwxj7Jt7dvXvvnQ5E0xpIQe67murZxzdatwpm70QV5-9JQGpqKqlJEQaEG7oHs5bcCVLEeRKQnYS9JcXPA5EcKR7l6rHv122Lc1zaVtH-y0R-t7qZcagbLLi-9ciD1EDNHeimhu9Ig5WmLC24pzdSzJMsy9P4apmHeZTPs2gRkG37BMYXw6soSZcponE6TxdZmJ-2Af8GlWz0pMlAeVwfI7t11LjRB2gUG-U4GS6SLMC-HRgLCJZUWQgItRbqrfoj3kdBhleUbij7deH3-UcieCw_12db19RK9uL7EBMgK4E7oxC3skaXsuoMdSgQOyvQrOGw0UxJ6zbTkuDIzG7Xy2phaPfhTI0Z_h8xZ5tWdXi1zSh4lC4kh3ugHMzJ5Rn6iv79KU-lce4ZFDDXmJdpvZBgqGFCMqp8nKLZj3Ie6BYUhuJMBxN8A9qB8Qc-EnoBp89TgcPug5d5K5Xzgo6mz8il5wlaXYz7Mv5KfPzFbEDKccCf6dWHo5rOXPe4ZBgGPC1zcgerf4i5eA9juBpTwGQ_afxBmoEdqX4D4zQSaA"
           >
-            Demo (dotplot read vs ref)
+            Demo
           </a>
         </div>
       </div>

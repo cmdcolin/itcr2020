@@ -96,7 +96,7 @@ function App() {
           <br />
           <a
             className="demo"
-            href="https://s3.amazonaws.com/jbrowse.org/code/jb2/alpha/itcr_demo_main/index.html?config=test_data%2Fconfig_longread_linear.json&session=eJzFlE1P4zAQhv9K5XMBO4nz0WMXdWGXLqit4LBCkUmmiUXqRLZpqVD_-47TkrYgFva0PdXjyTszzzvJC1FiAWRApj-HE793I7KhrHtL05vAnPTJQuhCKjKgfZJrsQJ9J3NbkoEfB32ylLAyZPD7hcgcFcbyfLxe3zUNPmfXjRO9kgqEnq6VBbW-xXS8KkEWpSUDRp2oNE0l1r-2PZhtYi8HK2TlZLTIHqdQQWZrPdtqlhK00FkpM-FSTFmvLhUmum6w3iN2ZPUT9EmFh9tti3NRGYxIlEdFO6uLooK8i7dlDiZZ2mQ0GkXx5INJZi7_7ShZreayeNLCyhqJkby2TVXbtBUnm_t3vNIZkwtJK129LfMdVL2AHa96Pjdgb57J4CQ6DaIkoGHCvZhHScT65KG5Ae0uGe9oQj6BApvY1tIw3-FdME4ZS1LGeUiTlOIhTjNsPgojn3uc0_bHYs9nIdaJPI_xJEoNSxt6FsQ0CM9o6vlJwBx4K7RtNwMUjuMF1FHQsARtDtgKY2DxUL1aXNWq0CDyFkjHHf-XMocLvADdPboPXaOoo3fs2OeL0Rp1JR6g6rbChb-BWwTHeie46e88GYU__Ed2XY9PvuqJz_mpzwLKvSD0eBTFB55w-qknWan5HmZEWRhy9soUj1GEFnyOtSxYQtwUR8oHNsU85jTc6cYxo8mXVe_fvyDBKl-uF94w3lMaCiOzL70YKquksWkBCkzalfi__t-7FrovXAEW81-OFGeHFd1lC-LjjA7MxUcp5wfliMNUVaJp3XjZ9MlcVtjjDJ4RIyHbj8fxgmKSAWMQ6lgoUcC-qzfhrpXpcXyDCvg1lEs4_4fJ_3K3ac1WeMAqlwpXT2Xg9DabP1MuJDQ"
+            href="http://localhost:3000/?config=test_data%2Fconfig_longread_linear.json&session=eJzFlE1P4zAQhv9K5XMBO4nz0WMXdWGXLqit4LBCkUmmiUXqRLZpqVD_-47TkrYgFva0PcXj6TszzzvJC1FiAWRApj-HE793I7KhrHtL05vAnPTJQuhCKjKgfZJrsQJ9J3NbkoEfB32ylLAyZPD7hcgcFcbyfLxe3zUN_s-uGyd6JRUIPV0rC2p9i-l4VYIsSksGjDpRaZpKrH9tezDbxF4OVsjKyWiRPU6hgszWerbVLCVoobNSZsKlmLJeXSpMdN1gvUfsyOon6JMKD7fbFueiMhiRKI-KdlYXRQV5F2_LHEyytMloNIriyQeTzFz-21GyWs1l8aSFlTUSI3ltm6q2aStONvfveKUzJheSVrp6W-Y7qHoBO171fG7A3jyTwUl0GkRJQMOEezGPkoj1yUNzA9pdMt7RhHwCBTaxraVhvsO7YJwylqSM85AmKcVDnGbYfBRGPvc4p-2PxZ7PQqwTeR7jSZQaljb0LIhpEJ7R1POTgDnwVmjbbgYoHMcLqKOgYQnaHLAVxsDioXq1uKpVoUHkLZCOOz6XMocLvAD96t8-co2aDt6xYZ_vRevTlXiAqlsKF_4Gbg8c6p3gpr-zZBT-8B_ZdT0--aolPuenPgso94LQ41EUH1jC6aeWZKXme5YRZWHI2StSPEYROvA51bJgCXFTHCkfuBTzmNNwpxvHjCZfVr1__34Eq3y5XnjDeE9pKIzMvvReqKySxqYFKDBpV-K_2n_vOui-bwVYzH85UpwdVnSXLYePMzouFx-lnB-UI45SVYmmNeNl0ydzWWGPM3hGioRsPx3H-4lJBoxBpmOhRAH7rt6Eu1amx_ENKuC3UC7h_B8m_8vdpvVa4QGrXCrcPJWB09ts_gBdUiOe"
           >
             Demo (linear synteny read vs ref)
           </a>
@@ -126,17 +126,28 @@ function Readme() {
   return (
     <div className="readme">
       <p>
-        <i>
-          These demos present a preview of JBrowse 2, as a companion to our
-          Biology of Genomes 2020 poster. We highlight circular, dotplot, and
-          linear comparative views that are new to JBrowse 2. These new views
-          aim to help structural variant inspection and synteny visualization.
-        </i>
+        <h3>
+          This website provides a live demo companion to our ITCR 2020 poster
+          and talk. The screenshots are clickable and demo links to running
+          instances of JBrowse 2 are also provided.
+        </h3>
       </p>
       <div>
-        <a href="https://github.com/GMOD/jbrowse-components">Github</a>
-        <br />
-        <a href="https://gitter.im/GMOD/jbrowse">Gitter chat</a>
+        <p>
+          <h5>
+            Feel free to chat with us on Gitter, check out our Github, or follow
+            us us on Twitter
+          </h5>
+        </p>
+        <a href="https://github.com/GMOD/jbrowse-components">
+          <h5>Github</h5>
+        </a>
+        <a href="https://gitter.im/GMOD/jbrowse">
+          <h5>Gitter chat</h5>
+        </a>
+        <a href="https://twitter.com/JBrowseGossip">
+          <h5>Twitter</h5>
+        </a>
       </div>
     </div>
   )

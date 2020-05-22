@@ -96,7 +96,7 @@ function App() {
           <br />
           <a
             className="demo"
-            href="https://s3.amazonaws.com/jbrowse.org/code/jb2/alpha/itcr_demo_main/index.html?config=test_data/config_longread_linear.json"
+            href="https://s3.amazonaws.com/jbrowse.org/code/jb2/alpha/itcr_demo_main/index.html?config=test_data%2Fconfig_longread_linear.json&session=eJzFlE1P4zAQhv9K5XMBO4nz0WMXdWGXLqit4LBCkUmmiUXqRLZpqVD_-47TkrYgFva0PdXjyTszzzvJC1FiAWRApj-HE793I7KhrHtL05vAnPTJQuhCKjKgfZJrsQJ9J3NbkoEfB32ylLAyZPD7hcgcFcbyfLxe3zUNPmfXjRO9kgqEnq6VBbW-xXS8KkEWpSUDRp2oNE0l1r-2PZhtYi8HK2TlZLTIHqdQQWZrPdtqlhK00FkpM-FSTFmvLhUmum6w3iN2ZPUT9EmFh9tti3NRGYxIlEdFO6uLooK8i7dlDiZZ2mQ0GkXx5INJZi7_7ShZreayeNLCyhqJkby2TVXbtBUnm_t3vNIZkwtJK129LfMdVL2AHa96Pjdgb57J4CQ6DaIkoGHCvZhHScT65KG5Ae0uGe9oQj6BApvY1tIw3-FdME4ZS1LGeUiTlOIhTjNsPgojn3uc0_bHYs9nIdaJPI_xJEoNSxt6FsQ0CM9o6vlJwBx4K7RtNwMUjuMF1FHQsARtDtgKY2DxUL1aXNWq0CDyFkjHHf-XMocLvADdPboPXaOoo3fs2OeL0Rp1JR6g6rbChb-BWwTHeie46e88GYU__Ed2XY9PvuqJz_mpzwLKvSD0eBTFB55w-qknWan5HmZEWRhy9soUj1GEFnyOtSxYQtwUR8oHNsU85jTc6cYxo8mXVe_fvyDBKl-uF94w3lMaCiOzL70YKquksWkBCkzalfi__t-7FrovXAEW81-OFGeHFd1lC-LjjA7MxUcp5wfliMNUVaJp3XjZ9MlcVtjjDJ4RIyHbj8fxgmKSAWMQ6lgoUcC-qzfhrpXpcXyDCvg1lEs4_4fJ_3K3ac1WeMAqlwpXT2Xg9DabP1MuJDQ"
           >
             Demo (linear synteny read vs ref)
           </a>

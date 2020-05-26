@@ -113,7 +113,7 @@ function App() {
           </p>
           <a
             className="demo"
-            href="https://s3.amazonaws.com/jbrowse.org/code/jb2/alpha/itcr_demo_gdc/index.html?config=test_data%2Fconfig_gdc_test.json&session=eJyNUmFr2zAQ_StBnzbwih3bseOPbdZ2o93KWpbBKEGRzpaYLBtJTmqC__tOdpbkwxj7Jt7dvXvvnQ5E0xpIQe67murZxzdatwpm70QV5-9JQGpqKqlJEQaEG7oHs5bcCVLEeRKQnYS9JcXPA5EcKR7l6rHv122Lc1zaVtH-y0R-t7qZcagbLLi-9ciD1EDNHeimhu9Ig5WmLC24pzdSzJMsy9P4apmHeZTPs2gRkG37BMYXw6soSZcponE6TxdZmJ-2Af8GlWz0pMlAeVwfI7t11LjRB2gUG-U4GS6SLMC-HRgLCJZUWQgItRbqrfoj3kdBhleUbij7deH3-UcieCw_12db19RK9uL7EBMgK4E7oxC3skaXsuoMdSgQOyvQrOGw0UxJ6zbTkuDIzG7Xy2phaPfhTI0Z_h8xZ5tWdXi1zSh4lC4kh3ugHMzJ5Rn6iv79KU-lce4ZFDDXmJdpvZBgqGFCMqp8nKLZj3Ie6BYUhuJMBxN8A9qB8Qc-EnoBp89TgcPug5d5K5Xzgo6mz8il5wlaXYz7Mv5KfPzFbEDKccCf6dWHo5rOXPe4ZBgGPC1zcgerf4i5eA9juBpTwGQ_afxBmoEdqX4D4zQSaA"
+            href="https://s3.amazonaws.com/jbrowse.org/code/jb2/alpha/itcr_demo_main/index.html?config=test_data%2Fconfig_gdc_test.json&session=eJyNUmFr2zAQ_StBnzbwih3bseOPbdZ2o93KWpbBKEGRzpaYLBtJTmqC__tOdpbkwxj7Jt7dvXvvnQ5E0xpIQe67murZxzdatwpm70QV5-9JQGpqKqlJEQaEG7oHs5bcCVLEeRKQnYS9JcXPA5EcKR7l6rHv122Lc1zaVtH-y0R-t7qZcagbLLi-9ciD1EDNHeimhu9Ig5WmLC24pzdSzJMsy9P4apmHeZTPs2gRkG37BMYXw6soSZcponE6TxdZmJ-2Af8GlWz0pMlAeVwfI7t11LjRB2gUG-U4GS6SLMC-HRgLCJZUWQgItRbqrfoj3kdBhleUbij7deH3-UcieCw_12db19RK9uL7EBMgK4E7oxC3skaXsuoMdSgQOyvQrOGw0UxJ6zbTkuDIzG7Xy2phaPfhTI0Z_h8xZ5tWdXi1zSh4lC4kh3ugHMzJ5Rn6iv79KU-lce4ZFDDXmJdpvZBgqGFCMqp8nKLZj3Ie6BYUhuJMBxN8A9qB8Qc-EnoBp89TgcPug5d5K5Xzgo6mz8il5wlaXYz7Mv5KfPzFbEDKccCf6dWHo5rOXPe4ZBgGPC1zcgerf4i5eA9juBpTwGQ_afxBmoEdqX4D4zQSaA"
           >
             Demo
           </a>
